@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TotalRecord
+comment1.params=ctag\ num1\ num2
+comment1.target=TotalRecord(int,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

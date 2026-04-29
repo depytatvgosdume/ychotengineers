@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MainFrame
+comment1.params=
+comment1.target=MainFrame()
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ NewFile()
+comment3.params=fch
+comment3.target=void\ setFileFilter(javax.swing.JFileChooser)
+comment4.params=
+comment4.target=void\ OpenFile()
+comment5.params=
+comment5.target=void\ SaveDialog()
+comment6.params=fs
+comment6.target=void\ SaveFile(boolean)
+comment7.params=
+comment7.target=void\ CloseWindow()
+comment8.params=
+comment8.target=void\ StartEdit()
+comment9.params=
+comment9.target=void\ StopEdit()
+numComments=11

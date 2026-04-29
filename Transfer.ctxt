@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=line
+comment1.target=java.lang.String\ unificationString(java.lang.String)
+comment2.params=line\ num
+comment2.target=EngineerWithCtag\ lineToEngineer(java.lang.String,\ int)
+comment3.params=lines
+comment3.target=java.util.List\ StringsToEngineer(java.util.List)
+comment4.params=engineer
+comment4.target=java.util.List\ EngineerToStrings(java.util.List)
+numComments=5

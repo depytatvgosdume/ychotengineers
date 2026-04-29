@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HelpDialog
+comment1.params=parent\ name\ help\ pictureName
+comment1.target=HelpDialog(javax.swing.JFrame,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
